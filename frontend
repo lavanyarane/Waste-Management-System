@@ -1,0 +1,11 @@
+ecoreport-frontend/
+├── ecoreport-v2.html     ← Your main HTML file
+├── login.html
+├── login.css
+├── login.js
+├── dashboard.html
+├── dashboard.css
+├── dashboard.js
+├── logout.html
+├── logout.css
+└── logout.js
